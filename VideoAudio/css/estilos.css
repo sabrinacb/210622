@@ -1,0 +1,12 @@
+video, iframe {
+width:50%;
+padding: 1em;
+border:1px solid black;
+
+}
+
+iframe {
+
+
+    height: 500px;
+}
